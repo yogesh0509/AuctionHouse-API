@@ -1,0 +1,19 @@
+{
+  "name": "player-data",
+  "version": "1.0.0",
+  "description": "calulate player data off chain ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "express": "^4.18.2",
+    "moralis": "^2.7.0",
+    "nodemon": "^2.0.20"
+  }
+}
